@@ -1,0 +1,19 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "form project backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sammit Pal",
+  "license": "MIT",
+  "dependencies": {
+    "dot-env": "0.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "monk": "^7.3.3",
+    "nodemon": "^2.0.7"
+  }
+}
